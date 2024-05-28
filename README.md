@@ -61,3 +61,15 @@ Para inicializar el frontend de la aplicación, sigue estos pasos:
 4. Este comando compilará el código fuente y iniciará un servidor de desarrollo local. En la terminal, verás una URL similar a http://localhost:5173/.
 5. Abre un navegador web y visita la URL proporcionada para acceder a la aplicación frontend en modo de desarrollo.
 
+## Contribución
+Si deseas contribuir a este proyecto, sigue estos pasos:
+
+- Haz un fork de este repositorio
+  
+- Crea una rama para tus cambios: git checkout -b mi-rama
+  
+- Realiza los cambios y realiza commit: git commit -am 'Agregar nueva funcionalidad'
+  
+- Sube tus cambios a tu fork: git push origin mi-rama
+  
+- Crea un Pull Request en este repositorio
